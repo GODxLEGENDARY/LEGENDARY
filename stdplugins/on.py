@@ -9,7 +9,7 @@ from uniborg.util import admin_cmd
 async def _(event):
     if event.fwd_from:
         return
-    mentions =       "`I am NøøB bot of LEGENDARY \n\nNOOBDA Bøt : 2.0 \n\nPython Version-PATA NHI\n××××××××××××××××××××××××× \n_UserBot Info.!_ \n\nCreator:LEGENDARY \n\nOwner:@GODxLEGENDARY \n\nUserbot:@legendsXbot \n\nUserBot's Info: Currently alive.!
+    mentions =       "`I am NøøB bot of LEGENDARY \n\nNOOBDA Bøt : 2.0 \n\nPython Version-PATA NHI\n××××××××××××××××××××××××× \n_UserBot Info.!_ \n\nCreator:LEGENDARY \n\nOwner:@GODxLEGENDARY \n\nUserbot:@legendsXbot \n\nUserBøt's Info -  Still Alive_NoobBøt.exe is still working'"
 
  
     chat = await event.get_input_chat()
